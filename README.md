@@ -28,7 +28,7 @@ cd vhacks-dev-3 && python2 run.py
 
 ## Instalasi Sederhana
 ```sh
-pkg update -y && pkg upgrade -y && pkg install git -y && pkg install python2 -y && git clone https://github.com/XVHacks/vhacks-dev-3 && cd vhacks-dev-3 && python2 run.py
+pkg update -y && pkg upgrade -y && pkg install git -y && pkg install python2 -y && git clone https://github.com/XVHacks/vhacks-dev-4 && cd vhacks-dev-3 && python2 run.py
 ```
 
 ## Dibangun Dengan
