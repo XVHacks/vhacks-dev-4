@@ -19,7 +19,7 @@ pkg install python2 -y
 ```
 
 ```sh
-git clone https://github.com/XVHacks/vhacks-dev-3
+git clone https://github.com/XVHacks/vhacks-dev-4
 ```
 
 ```sh
